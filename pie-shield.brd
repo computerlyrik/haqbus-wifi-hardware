@@ -661,8 +661,8 @@ design rules under a new name.</description>
 <vertex x="21.2852" y="15.6972"/>
 <vertex x="21.3614" y="20.701"/>
 <vertex x="19.5326" y="22.606"/>
-<vertex x="16.0274" y="22.5806"/>
-<vertex x="16.0528" y="27.178"/>
+<vertex x="17.2212" y="22.5552"/>
+<vertex x="17.2466" y="27.1526"/>
 <vertex x="36.0934" y="27.2034"/>
 <vertex x="35.7632" y="0.7366"/>
 <vertex x="-0.4064" y="1.016"/>
@@ -674,8 +674,8 @@ design rules under a new name.</description>
 <vertex x="21.2344" y="15.748"/>
 <vertex x="21.3614" y="20.7772"/>
 <vertex x="19.5072" y="22.5552"/>
-<vertex x="15.9766" y="22.5298"/>
-<vertex x="15.9512" y="27.1018"/>
+<vertex x="17.272" y="22.5044"/>
+<vertex x="17.2466" y="27.0764"/>
 <vertex x="35.941" y="27.2034"/>
 <vertex x="35.941" y="1.1176"/>
 <vertex x="-0.5334" y="0.889"/>
@@ -699,19 +699,17 @@ design rules under a new name.</description>
 <via x="15.8242" y="15.367" extent="1-16" drill="0.5" shape="octagon"/>
 <via x="19.6088" y="15.367" extent="1-16" drill="0.5" shape="octagon"/>
 <via x="31.8008" y="25.2222" extent="1-16" drill="0.5" shape="octagon"/>
-<via x="16.891" y="25.1714" extent="1-16" drill="0.5" shape="octagon"/>
-<via x="18.9484" y="25.2222" extent="1-16" drill="0.5" shape="octagon"/>
-<via x="20.7772" y="25.3238" extent="1-16" drill="0.5" shape="octagon"/>
-<via x="16.8148" y="23.6982" extent="1-16" drill="0.5" shape="octagon"/>
-<via x="18.9992" y="23.6728" extent="1-16" drill="0.5" shape="octagon"/>
-<via x="20.193" y="22.6314" extent="1-16" drill="0.5" shape="octagon"/>
+<via x="18.1864" y="25.1714" extent="1-16" drill="0.5" shape="octagon"/>
+<via x="20.4216" y="25.1206" extent="1-16" drill="0.5" shape="octagon"/>
+<via x="18.161" y="23.5966" extent="1-16" drill="0.5" shape="octagon"/>
+<via x="19.9136" y="23.0886" extent="1-16" drill="0.5" shape="octagon"/>
 <via x="20.6502" y="12.1158" extent="1-16" drill="0.5" shape="octagon"/>
 <via x="20.2184" y="10.0076" extent="1-16" drill="0.5" shape="octagon"/>
 <via x="23.114" y="9.9314" extent="1-16" drill="0.5" shape="octagon"/>
 <via x="24.5364" y="11.8364" extent="1-16" drill="0.5" shape="octagon"/>
 <via x="27.178" y="25.146" extent="1-16" drill="0.5" shape="octagon"/>
 <via x="29.464" y="25.2476" extent="1-16" drill="0.5" shape="octagon"/>
-<via x="21.1836" y="21.5138" extent="1-16" drill="0.5" shape="octagon"/>
+<via x="21.209" y="21.7932" extent="1-16" drill="0.5" shape="octagon"/>
 <via x="17.7292" y="15.367" extent="1-16" drill="0.5" shape="octagon"/>
 <via x="1.5494" y="10.7188" extent="1-16" drill="0.5" shape="octagon"/>
 <via x="1.6002" y="9.0424" extent="1-16" drill="0.5" shape="octagon"/>
