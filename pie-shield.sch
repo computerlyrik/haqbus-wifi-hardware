@@ -221,8 +221,6 @@
 <rectangle x1="-16.764" y1="21.336" x2="-16.256" y2="21.844" layer="51"/>
 <rectangle x1="-14.224" y1="21.336" x2="-13.716" y2="21.844" layer="51"/>
 <rectangle x1="-11.684" y1="21.336" x2="-11.176" y2="21.844" layer="51"/>
-<hole x="35.69" y="14.365" drill="2.9"/>
-<hole x="-18.81" y="-11.135" drill="2.9"/>
 </package>
 </packages>
 <symbols>
@@ -5566,12 +5564,14 @@ Source: AVX .. aphvc.pdf</description>
 <segment>
 <pinref part="U$1" gate="G$1" pin="GPIO24"/>
 <wire x1="5.08" y1="106.68" x2="-10.16" y2="106.68" width="0.1524" layer="91"/>
+<label x="-7.62" y="106.68" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$4" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="GPIO23"/>
 <wire x1="5.08" y1="104.14" x2="-7.62" y2="104.14" width="0.1524" layer="91"/>
+<label x="-7.62" y="104.14" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>

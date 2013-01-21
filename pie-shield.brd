@@ -124,10 +124,10 @@
 </layers>
 <board>
 <plain>
-<wire x1="35.3314" y1="1.7526" x2="10.3152" y2="1.7526" width="0" layer="20"/>
-<wire x1="10.3152" y1="1.7526" x2="10.3152" y2="26.913" width="0" layer="20"/>
-<wire x1="10.3152" y1="26.913" x2="35.3314" y2="26.913" width="0" layer="20"/>
-<wire x1="35.3314" y1="26.913" x2="35.3314" y2="1.7526" width="0" layer="20"/>
+<wire x1="34.7726" y1="1.6002" x2="10.2898" y2="1.6002" width="0" layer="20"/>
+<wire x1="10.2898" y1="1.6002" x2="10.3152" y2="26.913" width="0" layer="20"/>
+<wire x1="10.3152" y1="26.913" x2="34.798" y2="26.913" width="0" layer="20"/>
+<wire x1="34.798" y1="26.913" x2="34.7726" y2="1.6002" width="0" layer="20"/>
 </plain>
 <libraries>
 <library name="RaspberryPi">
@@ -227,8 +227,6 @@
 <rectangle x1="-16.764" y1="21.336" x2="-16.256" y2="21.844" layer="51"/>
 <rectangle x1="-14.224" y1="21.336" x2="-13.716" y2="21.844" layer="51"/>
 <rectangle x1="-11.684" y1="21.336" x2="-11.176" y2="21.844" layer="51"/>
-<hole x="35.69" y="14.365" drill="2.9"/>
-<hole x="-18.81" y="-11.135" drill="2.9"/>
 </package>
 </packages>
 </library>
@@ -612,28 +610,28 @@ Please make sure your boards conform to these design rules.</description>
 <vertex x="21.9202" y="20.3708"/>
 <vertex x="23.749" y="22.2758"/>
 <vertex x="26.0604" y="22.225"/>
-<vertex x="26.035" y="26.8224"/>
-<vertex x="10.2108" y="26.7716"/>
-<vertex x="10.1092" y="1.778"/>
-<vertex x="35.1536" y="1.8542"/>
+<vertex x="25.9588" y="27.2034"/>
+<vertex x="9.8044" y="27.1018"/>
+<vertex x="9.8552" y="1.27"/>
+<vertex x="35.2298" y="1.397"/>
 </polygon>
 <polygon width="0.3048" layer="1" thermals="no">
-<vertex x="10.2616" y="1.7018"/>
-<vertex x="35.2806" y="2.0574"/>
-<vertex x="35.4838" y="12.7"/>
+<vertex x="9.906" y="1.143"/>
+<vertex x="35.2298" y="1.4732"/>
+<vertex x="35.4838" y="12.7508"/>
 <vertex x="30.9372" y="12.7"/>
 <vertex x="30.9372" y="15.5702"/>
 <vertex x="22.0472" y="15.4178"/>
 <vertex x="21.9202" y="20.447"/>
 <vertex x="23.7744" y="22.225"/>
 <vertex x="26.0096" y="22.1742"/>
-<vertex x="26.035" y="26.7462"/>
-<vertex x="10.2108" y="26.7208"/>
+<vertex x="26.035" y="27.1018"/>
+<vertex x="9.906" y="27.1018"/>
 </polygon>
 <via x="22.352" y="23.3426" extent="1-16" drill="0.5" shape="octagon"/>
 <via x="23.7744" y="25.9334" extent="1-16" drill="0.5" shape="octagon"/>
 <via x="24.003" y="23.241" extent="1-16" drill="0.5" shape="octagon"/>
-<via x="11.2014" y="17.3736" extent="1-16" drill="0.5" shape="octagon"/>
+<via x="11.2014" y="17.5514" extent="1-16" drill="0.5" shape="octagon"/>
 <via x="12.573" y="9.9568" extent="1-16" drill="0.5" shape="octagon"/>
 <via x="33.655" y="12.2682" extent="1-16" drill="0.5" shape="octagon"/>
 <via x="31.8516" y="12.2682" extent="1-16" drill="0.5" shape="octagon"/>
